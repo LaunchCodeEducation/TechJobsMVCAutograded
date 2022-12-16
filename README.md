@@ -1,6 +1,6 @@
 # TechJobs, MVC Edition
 
-For [this assignment](https://education.launchcode.org/csharp/assignments/tech-jobs-mvc.html) students are asked to once again refactor a TechJobs application, this time using an MVC 
+For [this assignment](https://education.launchcode.org/csharp-web-development/assignments/tech-jobs-mvc.html) students are asked to once again refactor a TechJobs application, this time using an MVC 
 design pattern.
 
 ## Assignment Requirements
@@ -22,8 +22,8 @@ The starter code contains 4 unit test classes.  As with previous graded assignme
  
 ### Appearance and Code Check:
  
-[Working Demo App](https://csharp-mvc.launchcodetechnicaltraining.org/)
- 
+Before you start, check out our [working demo app](https://csharp-mvc.launchcodetechnicaltraining.org/). Please note that the app has to restart occasionally. When you click on it, if it does not work, the app is likely in the middle of restarting. Please give it some time before refreshing the page and you should see the working app.
+
 1. Start the application.
 1. Test the search functionality of the project:
 
@@ -55,4 +55,4 @@ The starter code contains 4 unit test classes.  As with previous graded assignme
 
 ## Submitting Your Work
 
-To submit your work please following the [Submission Instructions](https://education.launchcode.org/csharp/assignments/hello-world.html#submitting-your-work)
+To submit your work please following the [Submission Instructions](https://education.launchcode.org/csharp-web-development/assignments/hello-world.html#submitting-your-work)
